@@ -9,6 +9,9 @@
 
 ## Installation
  clone this repository, open in terminal and typing in your terminal with command :
-```
+ --
+## Running
+For Running :
 npm install
 npm start
+
